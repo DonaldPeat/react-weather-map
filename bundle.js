@@ -22668,7 +22668,7 @@
 	//sign up for a free openweathermaps api key at https://home.openweathermap.org/
 	var API_KEY = '66ab0b0f0aff13ce6298ad3466c5f4f1';
 	//es6 template string in URL
-	var ROOT_URL = 'http://api.openweathermap.org/data/2.5/forecast?&appid=' + API_KEY;
+	var ROOT_URL = 'https://api.openweathermap.org/data/2.5/forecast?&appid=' + API_KEY;
 	var FETCH_WEATHER = exports.FETCH_WEATHER = 'FETCH_WEATHER';
 
 	function fetchWeather(city) {
