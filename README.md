@@ -1,10 +1,9 @@
 #React Weather Map
 
-### Getting Started
+This is a simple react weather stats application using the open weather map api. 
+https://donaldpeat.github.io/react-weather-map/
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
+#### Get started using Git
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
